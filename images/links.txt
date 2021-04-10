@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/22141223/trying-to-make-ease-in-out-expo-timing-function-using-standard-css3
+https://www.kirupa.com/html5/introduction_to_easing_in_javascript.htm
